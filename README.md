@@ -6,7 +6,7 @@ Rustでsortのアルゴリズムを作成し、Pythonのmatplotlibで各アル�
 zsh run.sh
 ```
 
-### matplotlibnのインストール方法
+### matplotlibのインストール方法
 ```
 pip install matplotlib
 ```
